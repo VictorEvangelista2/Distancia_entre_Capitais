@@ -1,0 +1,27 @@
+table, td, th{
+    border: solid 1px black;
+    border-collapse: collapse;
+
+}
+th, td{
+    padding: 15px;
+}
+tr:hover{
+    background-color: #9b9898
+}
+tr:nth-child(even){
+    background-color: #aed8ed
+}
+td{
+    text-align: center;
+}
+th{
+    background-color: purple;
+    color: white;
+    font-family: Arial;
+}
+.vtr{
+    color: black;
+    background-color: beige;
+    font-family: Arial;
+}
