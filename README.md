@@ -1,4 +1,4 @@
 # Distâncias entre capitais brasileiras 
-aplicação com tabela de distância entre capitais brasileiras 
+tabela feita usando html e css para construir uma tabela onde tem todas as distâncias entre as 27 capitais brasileiras.
 
-turma 1°c
+Grupo: Victor, Nicolas, Murilo e João.
