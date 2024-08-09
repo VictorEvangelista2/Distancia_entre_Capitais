@@ -2,7 +2,7 @@
 
 # Introdução
 
-#### Em um país com dimensões continentais como o Brasil, a distância entre as capitais é um fator que molda a cultura, a economia e a vida cotidiana de seus habitantes. Com o objetivo de explorar essa diversidade geográfica de forma visual e interativa, desenvolvemos um projeto utilizando as tecnologias HTML5 e CSS3.
+##### Em um país com dimensões continentais como o Brasil, a distância entre as capitais é um fator que molda a cultura, a economia e a vida cotidiana de seus habitantes. Com o objetivo de explorar essa diversidade geográfica de forma visual e interativa, desenvolvemos um projeto utilizando as tecnologias HTML5 e CSS3.
 
 # Desenvolvimento
 
@@ -14,14 +14,14 @@
 
 # Conclusões 
 
-#### O uso de HTML5 e CSS3 permitiu a criação de um projeto com alta qualidade visual e excelente desempenho. A interface intuitiva torna a exploração dos dados uma experiência agradável para o usuário. Este projeto demonstra o potencial das tecnologias web para a criação de aplicações geográficas interativas.
+##### O uso de HTML5 e CSS3 permitiu a criação de um projeto com alta qualidade visual e excelente desempenho. A interface intuitiva torna a exploração dos dados uma experiência agradável para o usuário. Este projeto demonstra o potencial das tecnologias web para a criação de aplicações geográficas interativas.
 
 # Resultados Finais 
 
  - O projeto resultou em uma ferramenta visualmente atraente e fácil de usar, que permite aos usuários:
- - Visualizar a distância entre qualquer par de capitais brasileiras.
- - Comparar as distâncias entre diferentes rotas.
- - Explorar a geografia do Brasil de forma interativa.
+ - **Visualizar a distância entre qualquer par de capitais brasileiras.**
+ - **Comparar as distâncias entre diferentes rotas.**
+ - **Explorar a geografia do Brasil de forma interativa.**  
 
 <img src="Exemplo1.png">
 <img src="Exemplo2.png">
