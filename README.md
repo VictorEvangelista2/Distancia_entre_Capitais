@@ -35,7 +35,7 @@
 
 # Tecnologias Utilizadas 
 
-## [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-## [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-## [W3SCHOOL](https://www.w3schools.com/)
-## [MDN WEB DOCS](https://developer.mozilla.org/en-US/)
+#### [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+#### [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+#### [W3SCHOOL](https://www.w3schools.com/)
+#### [MDN WEB DOCS](https://developer.mozilla.org/en-US/)
