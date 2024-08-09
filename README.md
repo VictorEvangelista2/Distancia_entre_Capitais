@@ -23,12 +23,12 @@
  - Comparar as distâncias entre diferentes rotas.
  - Explorar a geografia do Brasil de forma interativa.
 
-<img src="Exemplo1">
-<img src="Exemplo2">
+<img src="Exemplo1.png">
+<img src="Exemplo2.png">
 
 # Autores 
 
-## Victor 
-## Nicolas  
-## Murilo
-## João
+#### Victor 
+#### Nicolas  
+#### Murilo
+#### João
